@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /research/
+title: "Research"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /research.html
 ---
 
 ## Locations of key files/directories
@@ -20,7 +20,7 @@ redirect_from:
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): images/profile.jpg
 
 ## Tips and hints
 
