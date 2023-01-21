@@ -7,7 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Logo/ About Me"
+title                    : "Nikita Sehrawat"
+logo                     : "site-logo.png"
 title_separator          : "-"
 name                     : &name "Nikita Sehrawat"
 description              : &description "Astrodynamics Researcher working on CR3BP and Trajectory Optimization"
