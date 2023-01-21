@@ -17,7 +17,8 @@ I'd love an opportunity to learn more about *satellite constellation design* and
 Research Work
 ------
 
-Ongoing
+**Ongoing**
+
 
 > <details>
 > <summary>Sep 2022 - Lunar Gravity Assist </summary>
@@ -40,7 +41,7 @@ Ongoing
 > <br>
 > </details>
 
-Previous
+**Previous**
 
 > <details>
 > <summary>Jan 2022 - Apr 2022 Individual Project - Hybrid Optimization</summary>

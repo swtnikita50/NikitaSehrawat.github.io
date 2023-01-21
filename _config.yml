@@ -8,7 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Nikita Sehrawat"
-logo                     : "site-logo.png"
 title_separator          : "-"
 name                     : &name "Nikita Sehrawat"
 description              : &description "Astrodynamics Researcher working on CR3BP and Trajectory Optimization"
@@ -85,6 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Astrodynamics Researcher working on CR3BP and Trajectory Optimization"
   location         : "Delhi, India"
+  logo             : "site-logo.png"
   employer         :
   pubmed           : 
   googlescholar    : 
