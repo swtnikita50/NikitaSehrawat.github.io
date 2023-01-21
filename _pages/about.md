@@ -137,7 +137,7 @@ Previous
 -->
 
 
-Background and History
+Background
 -----
 Write about your Bachelors Experiance
 
