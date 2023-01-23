@@ -45,19 +45,24 @@ Research Work
 
 > <details>
 > <summary>Jan 2022 - Apr 2022 Individual Project - Hybrid Optimization</summary>
-> Prof. Roberto Armellin <br>
-> Description:
+> Description: <br>
+> Contribution: I implemented a trajectory optimization algorithm for low thrust orbit raising using convex optimization and formulated plus implemented an interplanetary trajectory optimization algorithm using auccessive convex optimization.<br>
+> Learnings: <br>
+> Technologies used: C++ | Matlab | Mosek Optimization ToolBox | Differential Algebra Computational Toolbox<br>
+> Conecpts learned: Convex Optimization | Trajectory Optimization | Guass Variational Equations | Sundmann Transformation | Primer Vector Theory<br>
+> You can find my report [here]().
 > <br>
 > <br>
 > </details>
 > <details>
 > <summary>Jul 2021 - Dec 2021 Research Intern - University of Auckland</summary>
 > Prof. Roberto Armellin <br>
-> Description: <br>
-> Contribution: <br>
+> Description: I implemented a trajectory optimization algorithm for low thrust orbit raising using convex optimization and formulated plus implemented an interplanetary trajectory optimization algorithm using auccessive convex optimization.<br>
 > Learnings: <br>
-> Technologies used: <br>
-> Conecpts learned: <br>
+> Technologies used: C++ | Matlab | Mosek Optimization ToolBox | Differential Algebra Computational Toolbox<br>
+> Conecpts learned: Convex Optimization | Trajectory Optimization | Guass Variational Equations | Sundmann Transformation | Primer Vector Theory<br>
+> You can find my report [here]().
+> <br>
 > <br>
 > </details>
 > <details>
