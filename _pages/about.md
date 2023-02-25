@@ -29,31 +29,20 @@ Research Work
 > </details>
 > <details>
 > <summary>Aug 2022 - Master's Thesis Project </summary>
-> Prof. Roberto Armellin <br>
-> Description:
+> Prof. Manoranjan Sinha <br>
+> Description: My thesis is an attempt to understand the CR3BP intimately and understand how it is used in spacecraft trajectory design. It involves studying the chaos of the CR3BP in an orderly manner and making use of that chaos itself to generate trajectories which use far less fuel and can satisfy the mission constraints.
 > <br>
 > <br>
 > </details>
 > <details>
 > <summary>May 2022 - CR3BP Library</summary>
-> Description:
+> Description: This is an attempt to make the study of CR3BP almost automated. It implements various numerical techniques to generate the periodic orbits present in the circular restricted 3 body dynamics. You can find the library code [here](https://github.com/swtnikita50/CR3BP-MatlabLibrary).
 > <br>
 > <br>
 > </details>
 
 **Previous**
 
-> <details>
-> <summary>Jan 2022 - Apr 2022 Individual Project - Hybrid Optimization</summary>
-> Description: <br>
-> Contribution: I implemented a trajectory optimization algorithm for low thrust orbit raising using convex optimization and formulated plus implemented an interplanetary trajectory optimization algorithm using auccessive convex optimization.<br>
-> Learnings: <br>
-> Technologies used: C++ | Matlab | Mosek Optimization ToolBox | Differential Algebra Computational Toolbox<br>
-> Conecpts learned: Convex Optimization | Trajectory Optimization | Guass Variational Equations | Sundmann Transformation | Primer Vector Theory<br>
-> You can find my report [here]().
-> <br>
-> <br>
-> </details>
 > <details>
 > <summary>Jul 2021 - Dec 2021 Research Intern - University of Auckland</summary>
 > Prof. Roberto Armellin <br>
@@ -145,9 +134,19 @@ Research Work
 
 Background
 -----
-Write about your Bachelors Experiance
+Growing up in a busy state like Delhi, my family background has always been one of hard work and perseverance. My parents have been a constant source of inspiration, with my father working in the fire safety department of the government and my mother supporting our family of five by working as a tailor.
 
+Despite the challenges, I have always been a bright student and a well-rounded individual. In school, I was the associate head girl and won several district-level competitions in speech and science student seminar. I even secured the school rank 1 and national rank 1600 in the Science Olympiad in class 6.
+
+Driven by my interest in science, I pursued Aerospace Engineering at the Indian Institute of Technology Kharagpur, where I excelled not only academically but also in sports, leadership, and volunteering. As a skilled athlete, I have achieved several accolades in volleyball and running, and I even served as the Captain of my hostel's volleyball team for two years, leading my team to gold medals.
+
+In addition to my sports achievements, I have also been actively involved in volunteering for women's empowerment. As the General Secretary Sports at Sister Nivedita Hall and the Department Women Representative for Aerospace, I organized events like "Women in Research" and "International Women's Day," connecting female students with alums working in research and celebrating women's achievements.
+
+My skills also extend beyond sports and volunteering. I have a passion for creativity, and I like to code, design logos, and make animated videos. My technical skills have been put to use in various projects, both in academics and extracurricular activities.
+
+Overall, my diverse background, leadership and volunteering experience, and creative and technical skills make me a well-rounded individual, poised for success in any field I choose to pursue.
 
 Extra-curricular Interests
 -----
-Hobbies and works
+I enjoy tiring my muscles on the rythem of music while dancing, gymming, running or sketching. Along with that I like to read good novels from time to time which gives me break from my technical side and takes me into the sweet wonderland of literature. When novels become too monotonic I find myself enjoying more technical and creative side of me like working on this website or random logo deisgn or maybe coding animated videos. 
+Exploring new activities and enjoying learning them is my favorite hobby I can say:)
